@@ -8,9 +8,6 @@
         <outline text="Science" title="Science">
             <outline type="rss" text="Space.com" title="Space.com" xmlUrl="http://feeds.feedburner.com/spaceheadlines" htmlUrl="https://www.space.com"/>
         </outline>
-        <outline text="News" title="News">
-            <outline type="rss" text="Mr Mondialisation" title="Mr Mondialisation" xmlUrl="https://mrmondialisation.org/feed/" htmlUrl="https://mrmondialisation.org"/>
-        </outline>
         <outline text="Webdesign" title="Webdesign">
             <outline type="rss" text="Web Design Ledger" title="Web Design Ledger" xmlUrl="http://webdesignledger.com/feed" htmlUrl="https://webdesignledger.com"/>
         </outline>
@@ -25,17 +22,23 @@
         </outline>
         <outline text="Japan" title="Japan">
             <outline type="rss" text="The Japan Times: All Stories" title="The Japan Times: All Stories" xmlUrl="http://feeds.feedburner.com/japantimes" htmlUrl="https://www.japantimes.co.jp"/>
+            <outline type="rss" text="スラド" title="スラド" xmlUrl="http://slashdot.jp/slashdotjp.rss" htmlUrl="https://srad.jp/"/>
             <outline type="rss" text="Japan Today" title="Japan Today" xmlUrl="http://www.japantoday.com/feed" htmlUrl="https://japantoday.com/"/>
         </outline>
         <outline text="Tech" title="Tech">
             <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl="http://www.engadget.com"/>
             <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="http://javascriptweekly.com/rss" htmlUrl="http://javascriptweekly.com/"/>
+            <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="https://davidwalsh.name"/>
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/francaistechcrunch" htmlUrl="https://techcrunch.com"/>
+            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
             <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+            <outline type="rss" text="Hacker Noon" title="Hacker Noon" xmlUrl="https://medium.com/feed/hacker-daily" htmlUrl="https://hackernoon.com?source=rss----3a8144eabfe3---4"/>
             <outline type="rss" text="Planet Python" title="Planet Python" xmlUrl="http://planet.python.org/rss10.xml" htmlUrl="http://planetpython.org/"/>
             <outline type="rss" text="Android Developers Blog" title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.googleblog.com/"/>
+            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://feeds.kinja.com/lifehacker/vip" htmlUrl="http://lifehacker.com"/>
             <outline type="rss" text="GitHub Engineering" title="GitHub Engineering" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl="https://githubengineering.com/"/>
-            <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="https://davidwalsh.name"/>
+            <outline type="rss" text="Mashable" title="Mashable" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="https://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-All-Partial"/>
             <outline type="rss" text="Korben" title="Korben" xmlUrl="http://korben.info/feed" htmlUrl="https://korben.info"/>
         </outline>
     </body>
