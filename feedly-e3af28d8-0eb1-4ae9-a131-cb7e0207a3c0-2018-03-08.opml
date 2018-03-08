@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Quentin subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Science" title="Science">
+            <outline type="rss" text="Space.com" title="Space.com" xmlUrl="http://feeds.feedburner.com/spaceheadlines" htmlUrl="https://www.space.com"/>
+        </outline>
+        <outline text="News" title="News">
+            <outline type="rss" text="Mr Mondialisation" title="Mr Mondialisation" xmlUrl="https://mrmondialisation.org/feed/" htmlUrl="https://mrmondialisation.org"/>
+        </outline>
+        <outline text="Webdesign" title="Webdesign">
+            <outline type="rss" text="Web Design Ledger" title="Web Design Ledger" xmlUrl="http://webdesignledger.com/feed" htmlUrl="https://webdesignledger.com"/>
+        </outline>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="Vue.js Feed" title="Vue.js Feed" xmlUrl="https://vuejsfeed.com/feed" htmlUrl="https://vuejsfeed.com"/>
+            <outline type="rss" text="Vue.js News" title="Vue.js News" xmlUrl="https://www.getrevue.co/profile/vuenewsletter?format=rss" htmlUrl="https://www.getrevue.co/profile/vuenewsletter"/>
+            <outline type="rss" text="angular.js" title="angular.js" xmlUrl="http://www.reddit.com/r/angularjs/.rss" htmlUrl="https://www.reddit.com/r/angularjs/"/>
+            <outline type="rss" text="Vue.js Developers" title="Vue.js Developers" xmlUrl="http://vuejsdevelopers.com/feed.xml" htmlUrl="https://vuejsdevelopers.com/"/>
+            <outline type="rss" text="The Scala Programming Language :: News" title="The Scala Programming Language :: News" xmlUrl="http://www.scala-lang.org/rss.xml" htmlUrl="http://www.scala-lang.org/news/"/>
+            <outline type="rss" text="Python" title="Python" xmlUrl="http://www.reddit.com/r/Python/.rss" htmlUrl="https://www.reddit.com/r/Python/"/>
+            <outline type="rss" text="React" title="React" xmlUrl="http://facebook.github.io/react/feed.xml" htmlUrl="https://reactjs.org"/>
+        </outline>
+        <outline text="Japan" title="Japan">
+            <outline type="rss" text="The Japan Times: All Stories" title="The Japan Times: All Stories" xmlUrl="http://feeds.feedburner.com/japantimes" htmlUrl="https://www.japantimes.co.jp"/>
+            <outline type="rss" text="Japan Today" title="Japan Today" xmlUrl="http://www.japantoday.com/feed" htmlUrl="https://japantoday.com/"/>
+        </outline>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="http://javascriptweekly.com/rss" htmlUrl="http://javascriptweekly.com/"/>
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+            <outline type="rss" text="Planet Python" title="Planet Python" xmlUrl="http://planet.python.org/rss10.xml" htmlUrl="http://planetpython.org/"/>
+            <outline type="rss" text="Android Developers Blog" title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.googleblog.com/"/>
+            <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://feeds.kinja.com/lifehacker/vip" htmlUrl="http://lifehacker.com"/>
+            <outline type="rss" text="GitHub Engineering" title="GitHub Engineering" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl="https://githubengineering.com/"/>
+            <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="https://davidwalsh.name"/>
+            <outline type="rss" text="Korben" title="Korben" xmlUrl="http://korben.info/feed" htmlUrl="https://korben.info"/>
+        </outline>
+    </body>
+</opml>
